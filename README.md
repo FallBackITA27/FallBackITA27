@@ -1,9 +1,10 @@
-<img src="https://komarev.com/ghpvc/?username=fallbackita27&label=Profile%20views&color=0e75b6&style=flat" alt="fallbackita27" />
-
 <div align="center">
 
 ### FallBackITA27
 Hi! I'm FalB, or Leila Massanova.
+
+<img src="https://komarev.com/ghpvc/?username=fallbackita27&label=Profile%20views&color=0e75b6&style=flat" alt="fallbackita27" />
+
 </div>
 
 - pronouns: she/her
